@@ -1,0 +1,13 @@
+# ignore bite-code files
+*.pyc
+*.pyo
+__pycache__/
+
+# virtual invironment
+.venv/
+
+# IDE
+.idea/
+
+# security
+env
